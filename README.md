@@ -1,4 +1,5 @@
 #Experiment 6
+
 AIM: The aim of these C++ programs is to develop an understanding of fundamental programming constructs by creating simple pattern-based outputs and logic-based operations using loops, conditionals, and character handling.
 
 APPLICATION USED : VS Code
